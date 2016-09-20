@@ -1,0 +1,162 @@
+.home{
+	width:100%;
+	height:100%;
+	margin:0 auto;
+}
+.part1{
+	height:93%;
+	width:88%;
+	margin:0 auto;
+	float:right;
+	border:1px;
+}
+
+.part2{
+	height:80%;
+	width:88%;
+	margin:0 auto;
+	float:right;
+	border:1;
+	margin-top:30px;
+}
+
+.spacediv{
+	height:30%;
+	width:100%;
+}
+
+.timediv{
+	height:30%;
+	width:100%;
+	margin-top:30px;
+}
+
+.time{
+	width:60%;
+	height:30px;
+}
+
+.submit{
+	height:30%;
+	width:100%;
+	margin-top:45px;
+}
+.lonlat{
+	width:90%;
+	height:30px;
+}
+.topn{
+	 width: 60px; 
+	 height: 30px;
+	 border: 1px solid #D3D3D3; 
+	 position: relative; 
+	 left: 3px; 
+	 top: 6px;
+}
+
+.searchmap{
+	width:60%;
+	margin:0 auto;
+	height:100%;
+	border:1px;
+	float:left;
+	margin-top:5px;
+}
+
+
+.heatmap{
+	width:100%;
+	height:100%;
+	float:left;
+}
+
+.timespace{
+	width:39%;
+	height:100%;
+	border:1px;
+	float:right;
+	margin-top:5px;
+}
+
+.headbar{
+	width:100%;
+	height:50px;
+	align: center;
+	background:#5E5E5E;
+	border:1px;
+	color:white;
+	line-height: 49px;	
+	font-size: 34px;	
+	font-family:宋体;
+}
+
+.bar{
+	height:100%;
+	width:100%;
+	vertical-align:center;
+	background:#63B8FF;
+	line-height: 52px;
+}
+
+
+.spacebar{
+	width:90%;
+	align: center;
+	background:#FF8000;	
+}
+
+.timebar{
+	width:90%;
+	align: center;
+	background:#53FF53;	
+}
+
+.logo {
+	width: 80%;
+	font-size: 35px;	
+	font-family:宋体;
+	color:#FFFFFF;
+}
+
+
+
+
+
+.showPart{
+	height:600px;
+	width:88%;
+	margin:0 auto;
+	float:right;
+	border:1;
+	margin-top:30px;
+}
+
+th{
+	font-size:20px;
+	color:black;
+}
+
+table{
+	border: solid thin #63B8FF;
+}
+
+
+
+.STYLE1{
+	font-family:"宋体";
+	color:#ffffff;
+	font-size:12px;
+}
+
+
+
+.bottom{
+	 bottom: 0;
+	 padding: 8px 0;
+	 float:right;
+	 margin-top:15px;
+	 background-color: #AAA;
+	 width: 88%;
+	 height:30px;
+	 text-align:center;
+}
